@@ -1,0 +1,10 @@
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.exe.config
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.exe
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\bin\Debug\Lucky Cafe Order.pdb
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.csproj.AssemblyReference.cache
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky_Cafe_Order.LuckyCafeOrder.resources
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky_Cafe_Order.Properties.Resources.resources
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.csproj.GenerateResource.cache
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.csproj.CoreCompileInputs.cache
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.exe
+C:\Users\mohac\OneDrive\Desktop\Lucky Cafe Order\Lucky Cafe Order\obj\Debug\Lucky Cafe Order.pdb
